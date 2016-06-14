@@ -1,0 +1,2 @@
+# forsetakosningar
+Fylgiskannanir fyrir forsetakosningar
